@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BelleButCode
 - 👀 I’m interested in random crap
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on batch script type things
+- 🌱 I’m going to learn Lua at some point soon.
+- 💞️ I’m looking to collaborate on batch/python things.
 - 📫 How to reach me? You don't.
 
 <!---
